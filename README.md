@@ -1,3 +1,4 @@
 # Kris.github.io
 Project01-HTML  
-Project02-CSS
+Project02-CSS  
+Mid.Project-Personal.HomepageAssignment
